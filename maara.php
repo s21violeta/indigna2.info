@@ -1,1 +1,4 @@
-hola mundo
+<?php 
+    echo "hola mundo azucar para todos"
+
+?>
