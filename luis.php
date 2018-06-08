@@ -1,3 +1,3 @@
 <?php 
-echo "What's uuuuuuuuuuuuupppppp!!!!!!!!!!!";
+echo "What's uuuuuuuuuuuuupppppp!";
 ?>
