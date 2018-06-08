@@ -3,4 +3,6 @@
     echo "hola";
 
 
+    echo "adeu";
+
 ?>
