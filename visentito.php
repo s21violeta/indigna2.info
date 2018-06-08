@@ -14,5 +14,10 @@ echo 'hacedor de tiramisues';
 =======
 
 echo 'Pero hoy no ha traido ninguno';
+<<<<<<< HEAD
+>>>>>>> branch 'master' of https://github.com/s21violeta/indigna2.info.git
+=======
+
+echo 'cocina otro tiramisu visentito!';
 >>>>>>> branch 'master' of https://github.com/s21violeta/indigna2.info.git
 ?>
