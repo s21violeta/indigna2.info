@@ -1,8 +1,8 @@
 <?php 
 
-echo "visenstito presente!!";
+echo "visentito presente!!";
 
 echo "ok";
 
-echo 'ok';
+echo 'pastel de zanahoria listo para comer';
 ?>
