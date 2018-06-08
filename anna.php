@@ -1,5 +1,5 @@
 <?php 
 
-echo "hola Quim, amado profesor";
+echo "hola Quim, amado profesor y amigo";
 
 ?>
